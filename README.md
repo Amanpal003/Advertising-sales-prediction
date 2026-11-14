@@ -78,6 +78,8 @@ Model Evaluation
 Run Locally
 
 git clone https://github.com/Amanpal003/Advertising-sales-prediction.git
+
+
 cd Advertising-Sales-Prediction
 pip install pandas numpy matplotlib seaborn scikit-learn joblib streamlit
 python -m streamlit run frontend/app.py
