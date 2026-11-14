@@ -1,0 +1,13 @@
+# VS Code settings
+.vscode/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
